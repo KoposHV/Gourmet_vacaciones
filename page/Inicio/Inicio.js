@@ -14,6 +14,7 @@ const template = () => {
      </div>
     </div>
     `;
+    
   };
   
   const Inicio = () => {
